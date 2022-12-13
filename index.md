@@ -51,5 +51,16 @@ git commit --amend -m "new message"
 git log
 ```
 
+## Как сделать ветку
 
+чтобы сделать ветку надо прописать команду ниже
 
+```
+git branch -M main
+```
+
+## Как запушить репозиторий
+
+```
+git push -u origin main
+```
